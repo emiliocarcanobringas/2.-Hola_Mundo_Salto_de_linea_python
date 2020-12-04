@@ -1,1 +1,1 @@
-# 2.-Hola_Mundo_Salto_de_linea_python
+Este programa muestra como inprimir en pantalla información y como realizar un salto de línea con diagonal
